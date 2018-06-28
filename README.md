@@ -14,7 +14,7 @@
 <h2>Output:</h2>
 <p>To view the output, please copy & past the following URL in github html preview site. </p>
 
-1) Copy https://github.com/asriyazudeen/Red-Wine-Analysis---EDA/blob/master/RedWine_Analysis_Riyazudeen.html
+1) Copy https://github.com/asriyazudeen/OpenStreetMap-Analysis---OSM/blob/master/Open_Street_Map_Report.html
 2) Open http://htmlpreview.github.io/ in new tab
 3) Paste the link. 
 
