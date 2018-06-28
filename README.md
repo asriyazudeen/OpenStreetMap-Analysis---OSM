@@ -11,5 +11,10 @@
 <li>How to process data from multiple files or very large files that can be cleaned programmatically.</li>
 <li>Hearn how to store, query, and aggregate data using SQLLite</li>
 
+<h2>Output:</h2>
+<p>To view the output, please copy & past the following URL in github html preview site. </p>
 
+1) Copy https://github.com/asriyazudeen/Red-Wine-Analysis---EDA/blob/master/RedWine_Analysis_Riyazudeen.html
+2) Open http://htmlpreview.github.io/ in new tab
+3) Paste the link. 
 
